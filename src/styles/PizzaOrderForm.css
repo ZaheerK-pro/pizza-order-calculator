@@ -1,0 +1,32 @@
+.pizza-order-form {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+  }
+  
+  .pizza-order-form:hover {
+    transform: scale(1.02);
+  }
+  
+  .total-price {
+    margin-top: 30px;
+    font-size: 1.5em;
+    color: #080101;
+    text-align: center;
+  }
+  h2 {
+    background-color: rgb(252, 194, 194);
+    padding: 10px;
+    border-radius: 100px;
+  }
+
+  h2:hover{
+    background-color: rgb(247, 168, 168);
+    cursor: pointer;
+    transition: all 3s ease-in-out;
+  }
