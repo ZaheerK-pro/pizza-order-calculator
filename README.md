@@ -18,7 +18,7 @@ A simple React app to calculate the price of a customized pizza order.
 5. Open your browser and go to `http://localhost:3000`.
 
 ## Hosted Version
-You can access the live version of the app [here](https://your-vercel-app-url.vercel.app).
+You can access the live version of the app [here](https://pizza-order-calculator-xi.vercel.app/).
 
 ## Additional Features
 - Price breakdown for better transparency.
@@ -26,3 +26,7 @@ You can access the live version of the app [here](https://your-vercel-app-url.ve
 
 ## Author
 Zaheer Khan
+Developer - Zaheer Khan <br>
+LinkedIn - www.linkedin.com/in/zaheerk1 <br>
+Portfolio - https://zaheerkhan.netlify.app <br>
+Instagram - www.instagram.com/im__zaheerk <br>
