@@ -5,7 +5,7 @@ A simple React app to calculate the price of a customized pizza order.
 
 ## Instructions to Run Locally
 1. Clone the repository:
-    git clone https://github.com/yourusername/pizza-order-calculator.git
+    git clone https://github.com/ZaheerK-pro/pizza-order-calculator.git
 
 2. Navigate to the project directory:
     cd pizza-order-calculator
