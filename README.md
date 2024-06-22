@@ -20,10 +20,6 @@ A simple React app to calculate the price of a customized pizza order.
 ## Hosted Version
 You can access the live version of the app [here](https://pizza-order-calculator-xi.vercel.app/).
 
-## Additional Features
-- Price breakdown for better transparency.
-- Input validation for better user experience.
-
 ## Author
 Zaheer Khan
 Developer - Zaheer Khan <br>
